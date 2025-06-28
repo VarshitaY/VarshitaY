@@ -65,12 +65,12 @@
 
 ---
 
-## 📬 Let's Connect
+### 📫 Get in Touch
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/varshita-reddy-yeddula-45102b254/)
-- 💻 [GitHub](https://github.com/VarshitaY)
-- 📧 varshitayeddula@gmail.com
+- [varshitayeddula@gmail.com](mailto:varshitayeddula@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/varshita-reddy-yeddula-45102b254/)  
+- [GitHub](https://github.com/VarshitaY)
 
 ---
 
-> “Turning healthcare data into stories that matter.”
+> “Turning data into stories that matter.”
