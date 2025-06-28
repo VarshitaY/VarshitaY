@@ -48,12 +48,12 @@ Grab the one-page PDF that tells the full story:
 
 ## 🧾 Certifications
 
-🧪 [SAS Programming – Internshala](https://github.com/VarshitaY/VarshitaY/blob/main/Certificates/sas_internshala.pdf)
-🏭 [Industrial Training – Data Science, IntrainZ](https://github.com/VarshitaY/VarshitaY/blob/main/Certificates/datascience_training.pdf)
-💼 [Internship – Data Science, IntrainZ](https://github.com/VarshitaY/VarshitaY/blob/main/Certificates/internship_datasci.pdf)
-💬 [NLP – Wingspan](https://github.com/VarshitaY/VarshitaY/blob/main/Certificates/nlp_wingspan.pdf)
-👩🏻‍💻 [Python (Basic) – HackerRank](https://www.hackerrank.com/certificates/52a6f7bfa4aa)
-🧠 [Problem Solving (Basic) – HackerRank](https://www.hackerrank.com/certificates/8654f35f72ae)
+- 🧪 [SAS Programming – Internshala](https://github.com/VarshitaY/VarshitaY/blob/main/Certificates/sas_internshala.pdf)
+- 🏭 [Industrial Training – Data Science, IntrainZ](https://github.com/VarshitaY/VarshitaY/blob/main/Certificates/datascience_training.pdf)
+- 💼 [Internship – Data Science, IntrainZ](https://github.com/VarshitaY/VarshitaY/blob/main/Certificates/internship_datasci.pdf)
+- 💬 [NLP – Wingspan](https://github.com/VarshitaY/VarshitaY/blob/main/Certificates/nlp_wingspan.pdf)
+- 👩🏻‍💻 [Python (Basic) – HackerRank](https://www.hackerrank.com/certificates/52a6f7bfa4aa)
+- 🧠 [Problem Solving (Basic) – HackerRank](https://www.hackerrank.com/certificates/8654f35f72ae)
 
 ---
 
